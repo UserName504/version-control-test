@@ -1,3 +1,3 @@
 # version-control-test
 
-A throwaway repo for testing new git GUI's, etc.
+A throwaway repo for testing branching, commands, git GUI's, etc.
