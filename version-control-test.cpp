@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Friday, May 6th, 2022." << endl;
+    cout << "Tuesday, May 24th, 2022." << endl;
 }
