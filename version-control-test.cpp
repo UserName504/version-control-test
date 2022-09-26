@@ -29,11 +29,6 @@ using namespace std;
 #define YELLOWBOLD  "\033[1m\033[33m"
 
 int main() {
-<<<<<<< HEAD
-    cout << REDBOLD << "Monday, September 26th, 2022." << endl;
-=======
-    cout << "Another edit on:" << endl;
-    cout << MAGENTA << "Monday, September 26th, 2022." << endl;
->>>>>>> 8775b42f4bdafd97f162f9458fc8364571dac3d0
+    cout << YELLOWBOLD << "Monday, September 26th, 2022." << endl;
     return 0;
 }
